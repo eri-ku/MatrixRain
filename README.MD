@@ -49,3 +49,5 @@ according to the delay-speed parameter.
 the console screen is cleared and the cursor is displayed so that the command line can be used as
 before the program was started.
 
+<br></br>
+![Screenshot1](docs/images/Screenshot1.jpg)
