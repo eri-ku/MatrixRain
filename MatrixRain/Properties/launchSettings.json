@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "MatrixRain": {
-      "commandName": "Project",
-      "commandLineArgs": "--direction-up --color Red"
-    }
-  }
-}
